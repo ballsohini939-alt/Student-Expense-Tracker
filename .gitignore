@@ -1,0 +1,16 @@
+# Personal expense data
+data/expenses.csv
+
+# Personal budget
+budget.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
