@@ -5,7 +5,6 @@ A Python command-line application for managing and analyzing student expenses.
 ## 📌 About
 
 Student Expense Tracker helps users record daily expenses, organize them into categories, analyze spending, search and delete expenses, and monitor a personal budget.
-
 Expense data is stored locally using CSV file handling.
 
 ## ✨ Features
