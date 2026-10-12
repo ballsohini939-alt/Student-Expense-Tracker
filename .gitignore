@@ -1,16 +1,22 @@
 # Personal expense data
+
 data/expenses.csv
 
 # Personal budget
+
 budget.txt
 
-# Python cache
-__pycache__/
-*.pyc
+# Python cache and compiled files
 
-# Virtual environment
+**pycache**/
+*.py[cod]
+
+# Virtual environments
+
 venv/
 .venv/
 
 # VS Code settings
+
 .vscode/
+
